@@ -1,0 +1,1 @@
+#Przykłady w Go
