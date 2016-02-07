@@ -19,7 +19,7 @@ func main() {
 
 	for scanner.Scan() {
 		if line = scanner.Text(); len(line) > n {
-			fmt.Println(scanner.Text())
+			fmt.Println(line)
 		}
 	}
 
